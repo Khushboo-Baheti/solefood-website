@@ -1,0 +1,54 @@
+.styletwo {
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor:pointer;
+} 
+
+
+
+.stylesub {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor:pointer;
+}
+
+
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {   
+    height: 100%; 
+    background-image: url("../images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table {
+	border-collapse: collapse;
+    
+    width:40%;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.bg img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
